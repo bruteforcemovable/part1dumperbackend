@@ -1,0 +1,13 @@
+{
+    "name": "deadphoenix8091/bruteforcemovable",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.0",
+        "symfony/console": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BruteforceMovable\\": "src/"
+        }
+    }
+}
